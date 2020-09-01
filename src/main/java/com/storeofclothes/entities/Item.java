@@ -12,6 +12,7 @@ public class Item {
     private int id;
     private String name;
     private String specifications;
+    private float price;
 
     public Item() {
     }
@@ -38,5 +39,13 @@ public class Item {
 
     public void setSpecifications(String specifications) {
         this.specifications = specifications;
+    }
+
+    public float getPrice() {
+        return price;
+    }
+
+    public void setPrice(float price) {
+        this.price = price;
     }
 }
