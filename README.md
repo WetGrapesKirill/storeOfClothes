@@ -1,4 +1,4 @@
 <b><b2>Spring + Vue.js application for store of clothes</b2></b>
 <p>To start the application, download java development kit, 
-cd into target and write: java -jar demo-0.0.1-SNAPSHOT.jar</p>
-
+cd into target and write: java -jar demo-0.0.1-SNAPSHOT.jar.</p>
+<p>To shutdown the server press ctrl+c in console.</p>
